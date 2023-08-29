@@ -1,2 +1,1 @@
-this the repo for the python repository
-![python](https://github.com/Medkammoun/Python/assets/136347204/c334844c-d436-4d05-a1b4-103980dbb676)
+![python (1)](https://github.com/Medkammoun/Python/assets/136347204/d681f729-65e5-4260-9f86-b005f49c36b7)
